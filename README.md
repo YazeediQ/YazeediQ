@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/yazeediq-pixel-banner.png" width="100%" alt="YazeediQ pixel developer command center" />
+  <img src="assets/yazeediq-pixel-banner.jpg" width="100%" alt="YazeediQ pixel developer command center" />
 </div>
 
 <div align="center">
